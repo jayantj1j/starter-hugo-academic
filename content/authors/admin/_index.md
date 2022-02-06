@@ -15,13 +15,13 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+<!-- bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
 
 # Interests to show in About widget
 interests:
-- Finance
-- Reading
 - Tech
+- Reading
+- Finance
 - Travelling
 - Swimming/Tennis
 
@@ -66,5 +66,7 @@ email: ""
 highlight_name: true
 ---
 
-Jayant is a software developer at Adobe, India.
+Jayant works as a Software Developer at Adobe, India. He completed his BTech from IIIT Delhi with ECE major, a deadly tangle of hyper-convoluted math designed to melt your brains just before the end-sem exam. He enjoys stuff related to tech, finance, motorsport and meeting new folks! 
+
+He is extremely passionate about learning new things, working on intellectually challenging fixes and prompted by curiosity. When he’s not writing about himself in the third person on weekends, you can find him juggling between a flix, sleep, Swiggying, blog, travel plans and what not. Perfect 'bio' still under works :)
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
