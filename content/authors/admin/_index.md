@@ -21,7 +21,7 @@ organizations:
 interests:
 - Tech
 - Reading
-- Finance
+- Finance & PM
 - Travelling
 - Swimming/Tennis
 
