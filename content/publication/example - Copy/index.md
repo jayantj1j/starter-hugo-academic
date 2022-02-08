@@ -1,5 +1,5 @@
 ---
-title: "Heart rate variability as a marker of cardiovascular dysautonomia in post-COVID-19 syndrome using artificial intelligence"
+title: "Interpretable AI Model-Based Predictions of ECG changes in COVID-recovered patients"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,11 +13,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2022-07-01T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +26,10 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Indian Pacing and Electrophysiology Journal*
-publication_short: In *IPEJ*
+publication: In *IEEE BioSMART Conference 2021, Paris*
+publication_short: In *BioSMART Conference*
 
-abstract: Cardiovascular dysautonomia comprising postural orthostatic tachycardia syndrome (POTS) and orthostatic hypotension (OH) is one of the presentations in COVID-19 recovered subjects. We aim to determine the prevalence of cardiovascular dysautonomia in post COVID-19 patients and to evaluate an Artificial Intelligence (AI) model to identify time domain heart rate variability (HRV) measures most suitable for short term ECG in these subjects.
+abstract:
 
 
 # Summary. An optional shortened abstract.
