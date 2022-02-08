@@ -43,7 +43,7 @@ social:
   icon_pack: fas
   link: 'mailto:jayant17155@iiitd.ac.in'
 - icon: instagram
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.instagram.com/iam_jayantjain/
 - icon: github
   icon_pack: fab
@@ -68,5 +68,5 @@ highlight_name: true
 
 Jayant works as a Software Developer at Adobe, India. He completed his BTech from IIIT Delhi with ECE major, a deadly tangle of hyper-convoluted math designed to melt your brains just before the end-sem exam. He enjoys stuff related to tech, finance, motorsport and meeting new folks! 
 
-He is extremely passionate about learning new things, working on intellectually challenging fixes and prompted by curiosity. When he’s not writing about himself in the third person on weekends, you can find him juggling between a flix, sleep, Swiggying, blog, travel plans and what not. Perfect 'bio' still under works :)
+He is extremely passionate about learning new things, working on intellectually challenging fixes and prompted by curiosity. When he’s not writing about himself in the third person on weekends, you can find him juggling between a flix, sleep, Swiggying, blog, travel plans and what not. A better 'bio' under works :)
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
